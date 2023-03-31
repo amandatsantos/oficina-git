@@ -1,0 +1,19 @@
+{
+  "name": "oficina-git",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "script.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandatsantos/portifolio.git"
+  },
+  "author": "Raquel Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandatsantos/portifolio/issues"
+  },
+  "homepage": "https://github.com/amandatsantos/portifolio#readme"
+}
